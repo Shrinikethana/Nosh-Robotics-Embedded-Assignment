@@ -24,6 +24,7 @@ TIM3 is used for periodic interrupts.
 PC13 is used as switch input.
 PA5 (LED_GREEN) is used for LED output.
 
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Q2 - Producer Consumer Sensor Simulation
 
